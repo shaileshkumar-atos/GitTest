@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Microsoft.SharePoint.Client;
+//using Microsoft.SharePoint.Client;
 
 namespace ConsoleApplication1
 {
@@ -25,7 +25,7 @@ namespace ConsoleApplication1
             Console.WriteLine("\nThe difference between " + number1 + " and " + number2 + "  is " + y);
             Console.ReadKey();
 
-            ClientContext ctx = new ClientContext("");
+            //ClientContext ctx = new ClientContext("");
         }
 
         public class MathsHelper
