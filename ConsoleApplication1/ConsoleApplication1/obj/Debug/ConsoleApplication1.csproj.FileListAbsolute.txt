@@ -10,3 +10,6 @@ E:\TFS\SharePointApps\SRC\1.DEV\DevOps\ConsoleApplication1\ConsoleApplication1\o
 E:\TFS\SharePointApps\SRC\1.DEV\DevOps\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 E:\TFS\SharePointApps\SRC\1.DEV\DevOps\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 E:\TFS\SharePointApps\SRC\1.DEV\DevOps\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\a662228\Source\Repos\GitTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\a662228\Source\Repos\GitTest\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\a662228\Source\Repos\GitTest\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
